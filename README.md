@@ -146,3 +146,21 @@ Delete a task (**Manager Only**).
 ## 🤝 Contributing
 
 Please refer to [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
+
+---
+
+## 📸 Screenshots
+
+### Login Page
+![Login Page](screenshots/login.png)
+
+### Registration Page
+![Registration Page](screenshots/register.png)
+
+### Dashboard (Light Mode)
+![Dashboard Light Mode](screenshots/dashboard-lightmode.png)
+
+### Dashboard (Manager View)
+![Dashboard Manager View](screenshots/dashboard-manager.png)
+
+---
