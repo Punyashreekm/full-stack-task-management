@@ -13,7 +13,7 @@ A robust full-stack task management application designed for teams with role-bas
 
 ---
 
-## 🏁 Getting Started (Intern's Guide)
+## 🏁 Getting Started
 
 Follow these steps to get the project running locally in under 15 minutes.
 
